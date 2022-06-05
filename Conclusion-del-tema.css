@@ -1,0 +1,222 @@
+ .u-section-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 424px;
+  background-image: url("images/at.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 424px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 424px;
+  background-image: url("images/Turing.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 424px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 424px;
+  background-image: url("images/O.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 424px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 701px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 350px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 350px;
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 214px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 214px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1910px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 603px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 603px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 482px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 603px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 482px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1241px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 303px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 303px;
+  }
+}
